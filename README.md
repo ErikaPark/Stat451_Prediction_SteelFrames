@@ -1,6 +1,5 @@
 # Prediction of Failures in Steel Frames
 
-## COVID and Lung Disease Detection from Xray images
 - **Intro**: As the structural failure may cause substantial loss of human life, protection against possible failure is of primary concern and the structure must neither fail locally nor globally. The objective of this paper is to predict whether steel frames experience a failure or not under uncertainties in material and geometric properties and structural loads, by evaluating the ultimate strength of the frames. Two example frames are investigated that have the same layout but different failure modes.
 - Therefore, we are motivated to develop machine learning models that can quickly and accurately predict failures in Steel Frames.
 - **Goal**: To find the best model to predict the failure of steel frames, k-Nearest Neighbors (kNN), decision trees, and random forests are utilized. The model with the highest prediction accuracy are selected as the best model. 
