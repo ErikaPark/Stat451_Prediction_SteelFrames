@@ -56,3 +56,4 @@ Number of examples
 * Code file: 451Report.ipynb
 * Knitted Version of Code file: Final_Copy.pdf
 * Report: STAT_451_report.pdf
+* Presentation Slide: Project_Presentation.pdf
